@@ -20,6 +20,7 @@ Internet speed is testing. Please wait...
 Download Speed : 54.32 Mbps  
 Upload Speed   : 11.26 Mbps  
 Ping           : 28.64 ms
+
 🛠️ Requirements
 Python 3.x
 
